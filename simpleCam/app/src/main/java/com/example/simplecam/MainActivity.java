@@ -599,7 +599,6 @@ public class MainActivity extends AppCompatActivity {
 
                 else if(current.equals(states[3])) {
                     output = "01";
-                    Log.d("OpenCV-logInfo", "Abooeeeee ");
                 }
 
                 else if(current.equals(states[4]))
